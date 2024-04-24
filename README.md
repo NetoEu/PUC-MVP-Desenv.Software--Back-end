@@ -1,4 +1,4 @@
-# Projeto MVP de pós graduação em engenharia de software - PUC-RJ - BackEnd
+# Projeto MVP da sprint de Desenv. Software da Pós Graduação em Engenharia de Software - PUC-RJ - BackEnd
 
 O objetivo é apresentar uma API seguindo o estilo REST.
 
